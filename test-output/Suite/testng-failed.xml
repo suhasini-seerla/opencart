@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="wipro.opencart.OrderHistory">
+        <methods>
+          <include name="Orderhistory"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- wipro.opencart.OrderHistory -->
+      <class name="wipro.opencart.RegistrationAndAddToCart">
+        <methods>
+          <include name="end"/>
+          <include name="start"/>
+          <include name="startReport"/>
+          <include name="RegAndAddToCart"/>
+        </methods>
+      </class> <!-- wipro.opencart.RegistrationAndAddToCart -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

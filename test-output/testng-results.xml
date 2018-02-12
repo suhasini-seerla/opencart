@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140590" started-at="2018-02-09T06:30:29Z" finished-at="2018-02-09T06:32:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140590" started-at="2018-02-09T06:30:29Z" finished-at="2018-02-09T06:32:50Z">
+      <class name="wipro.opencart.Product_Comparison">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:wipro.opencart.Product_Comparison@7085bdee]" name="startReport" is-config="true" duration-ms="267" started-at="2018-02-09T12:00:29Z" finished-at="2018-02-09T12:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="start()[pri:1, instance:wipro.opencart.Product_Comparison@7085bdee]" name="start" duration-ms="15164" started-at="2018-02-09T12:00:29Z" finished-at="2018-02-09T12:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="prodcomp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:wipro.opencart.Product_Comparison@7085bdee]" name="prodcomp" duration-ms="116052" started-at="2018-02-09T12:00:47Z" data-provider="ex_read_ord" finished-at="2018-02-09T12:02:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suhasini.seerla@wipro.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[suhasini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[apple]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prodcomp -->
+        <test-method status="PASS" signature="end()[pri:3, instance:wipro.opencart.Product_Comparison@7085bdee]" name="end" duration-ms="6310" started-at="2018-02-09T12:02:43Z" finished-at="2018-02-09T12:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:wipro.opencart.Product_Comparison@7085bdee]" name="endReport" is-config="true" duration-ms="675" started-at="2018-02-09T12:02:50Z" finished-at="2018-02-09T12:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- wipro.opencart.Product_Comparison -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

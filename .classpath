@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/Flat_file"/>
+	<classpathentry kind="src" path="src/test/utils"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jar_files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar_files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/selenium-3.7.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/selenium-3.7.0-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-3.7.0/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SU399862/Downloads/jar_files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

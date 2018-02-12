@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test]">
+  <test name="opencart(failed)">
+    <classes>
+      <class name="wipro.opencart.RegistrationAndAddToCart">
+        <methods>
+          <include name="RegAndAddToCart"/>
+        </methods>
+      </class> <!-- wipro.opencart.RegistrationAndAddToCart -->
+    </classes>
+  </test> <!-- opencart(failed) -->
+</suite> <!-- Failed suite [Test] -->
